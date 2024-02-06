@@ -7,6 +7,9 @@ import android.view.View
 import android.view.ViewGroup
 import com.joako.horoscopoapp.R
 import com.joako.horoscopoapp.databinding.FragmentPalmistryBinding
+import dagger.hilt.android.AndroidEntryPoint
+
+@AndroidEntryPoint
 
 class PalmistryFragment : Fragment() {
 
